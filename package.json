@@ -1,0 +1,8 @@
+{
+  "name": "gabuts-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GABUTS TikTok and Instagram media downloader starter",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "archiver": "^7.0.1", "express": "^4.21.2" }
+}
